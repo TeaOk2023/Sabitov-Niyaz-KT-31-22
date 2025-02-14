@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sabitov-Niyaz-KT-31-22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9558b9e96f3fedc025c4c9fac37fd3e827194db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00005e8be112a1824903e6852bd72f3dba2f1469")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sabitov-Niyaz-KT-31-22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sabitov-Niyaz-KT-31-22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
